@@ -4,6 +4,12 @@
 
 A destination recommender system that takes the user's origin point and the month during which they will be traveling as input, and recommends them the top ten destinations they can travel to.
 
+## Achievements
+
+2nd position at [Enter the Travel-Verse Hackathon by Airline Reporting Corporation(ARC)](https://www.hackerearth.com/challenges/hackathon/enter-the-travel-verse/) organized on HackerEarth.
+
+![Alt text](Images/ARC2.png?raw=true "Result")
+
 ## Sample Screenshots
 
 ![Alt text](Images/Img1.png?raw=true "Result1")
